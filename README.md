@@ -10,7 +10,7 @@
 |---|---|---|---|
 | Joudy Ahmed  | 16001356 | T-6 | 1joudy |
 | Norin Ashraf | 16007765 | T-6 | norinashraf |
-| Jana Galal   | 16001815 | t-9 | janagalal12 |
+| Jana Galal   | 16001815 | T-9 | janagalal12 |
 
 
 ## 2. The idea
