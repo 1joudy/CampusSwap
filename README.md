@@ -144,7 +144,7 @@ The API runs on http://localhost:3000.
 |---|---|
 | `MONGODB_URI` | The connection string of your MongoDB Atlas database |
 | `JWT_SECRET` | Any long random text, used to sign login tokens |
-| [Any other variable] | [What it is] |
+
 
 ### Front end
 
