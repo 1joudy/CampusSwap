@@ -127,8 +127,7 @@ const reviewSchema = new mongoose.Schema({
 
 ## 6. Run it locally
 
-> Leave this section as it is until Submission 2 (Thursday 10 December 2026,
-> 23:59). Then fill it in: we follow these steps to run your project.
+we follow these steps to run your project.
 
 ### Back end
 
